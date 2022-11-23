@@ -21,7 +21,7 @@ https://www.udemy.com/share/1013BQ/
 
 * **killer.sh** is now included free for all exam attendees on enrollment process
 
-https://killer.sh/cka
+https://killer.sh/ckad
 
 ### Timeline
 * started with Udemy course and completed all the videos (14.5 hours) and KodeKloud practice tests (~8-12 hours)
