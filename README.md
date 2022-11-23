@@ -1,5 +1,11 @@
 # Certified Kubernetes Application Developer Exam (CKAD)
 
+## My Badge
+
+<a href="https://www.credly.com/badges/3272e340-9eba-4d99-9e3e-61111d035fd4/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png">
+</a>
+
 ## How I prepared for it in November 2022
 
 ### My situation:
